@@ -28,7 +28,7 @@ const vcard = 'BEGIN:VCARD\n' // OM JANGAN DI UBAH OM
             + 'VERSION:3.0\n' // INI SC SI RAMLAM
             + 'FN:FDL GANZ\n' // UBAH INI
             + 'ORG:Owner BOT;\n' // UBAH INI
-            + 'TEL;type=CELL;type=VOICE;waid=447451209039:+44 7451 209039\n' // UBAH INI
+            + 'TEL;type=CELL;type=VOICE;waid=081262309422:081262309422\n' // UBAH INI
             + 'END:VCARD' // WEEM DIHAPUS GUE BERHENTI UPDATE SCRIPT
 prefix = '#'
 blocked = []
